@@ -1,6 +1,6 @@
 Expense Tracker
 
-A basic full-stack web application for managing personal expenses, built to demonstrate proficiency in Java, Spring Boot, MySQL, HTML, and CSS. This project showcases modern web development practices, including server-side rendering, database integration, and a clean, responsive user interface, making it a strong addition to my portfolio for software engineering roles.
+A basic full-stack web application for managing personal expenses, built using Java, Spring Boot, MySQL, HTML, and CSS. This project showcases modern web development practices, including server-side rendering, database integration, and a clean, responsive user interface.
 
 Features
 View Expenses: Displays a table of all expenses with date, description, amount, and category.
